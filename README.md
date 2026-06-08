@@ -1,20 +1,21 @@
-# 👋 Hi, I'm Ganesh Kumar!
+# Hi, I'm Ganesh Kumar!
 
 **Computer Science Undergraduate | AI & Data Science Enthusiast | Web Developer**
 
-Welcome to my GitHub profile! I am a passionate developer currently in my 4th semester of a B.Tech in Computer Science. I thrive on building intuitive full-stack applications, solving complex algorithmic problems, and exploring the intersections of Artificial Intelligence and modern web technologies.
+Welcome to my GitHub profile!
+I am a passionate developer currently pursuing B.Tech in Computer Science. I thrive on building intuitive full-stack applications, solving algorithmic problems, and exploring the feilds of Artificial Intelligence and modern web technologies.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 **Currently working on:** Strengthening core CS fundamentals, developing scalable web apps (like event attendance trackers).
-- 🌱 **Currently exploring:** Data Structures & Algorithms, Machine Learning integrations (like RAG architectures).
-- 👨‍💻 **Experience:** Built an AI healthcare chatbot for SIH 2025 and completed an ML internship focused on predictive modeling.
-- 💬 **Ask me about:** Python, Web Development (Supabase, Vercel, Framer), and algorithmic problem-solving.
+-  **Currently working on:** Strengthening core CS fundamentals, developing scalable web apps (like event attendance trackers).
+-  **Currently exploring:** Data Structures & Algorithms, Machine Learning integrations (like RAG architectures).
+-  **Experience:** Built an AI healthcare chatbot for SIH 2025 and completed an ML internship focused on predictive modeling.
+-  **Ask me about:** Python, Web Development (Supabase, Vercel, Framer), and algorithmic problem-solving.
 ---
 
-## 🛠️ My Skills & Tech Stack
+##  My Skills & Tech Stack
 
 ### Languages & Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,9 +31,7 @@ Welcome to my GitHub profile! I am a passionate developer currently in my 4th se
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshkumarbasa/)
 ---
-
-*Always craving to build and play with new-age tech.Let's connect and build together!*
